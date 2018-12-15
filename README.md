@@ -16,3 +16,4 @@ Once you click on that, an editor will open where you can type in the changes or
 Write a commit message which identifies your changes.
 Click commit changes in the end. 
 **Pull requests** let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are **merged** into the base branch.
+![gif1](https://user-images.githubusercontent.com/34175696/50040465-ef9a3d00-002a-11e9-8e93-bb0478ea8fa9.gif)
